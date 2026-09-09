@@ -1,0 +1,6 @@
+{
+  "name": "Currency Exchange",
+  "description": "Live currency exchange rates and converter for all world countries and territories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
